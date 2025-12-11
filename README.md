@@ -15,6 +15,16 @@ A cross-platform Flutter application featuring **phone-based OTP authentication*
 **Project Walkthrough Video:**
 [https://drive.google.com/file/d/13A_YdwnIMjYRYn2qoHQhLGDJ01p8W4IQ/view?usp=sharing](https://drive.google.com/file/d/13A_YdwnIMjYRYn2qoHQhLGDJ01p8W4IQ/view?usp=sharing)
 
+---
+
+## Test Login Credentials (For Reviewers)
+
+To access the app without needing a real phone number, you may use the Firebase test credentials:
+
+**Phone Number:** `+91 1234506789`
+**OTP (Verification Code):** `123987`
+
+These are pre-configured in Firebase for testing purposes and work on both **web** and **mobile**.
 
 ---
 
