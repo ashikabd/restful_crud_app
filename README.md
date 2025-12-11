@@ -6,7 +6,9 @@ A cross-platform Flutter application featuring **phone-based OTP authentication*
 
 ## Live Demo
 
-[Project Walkthrough Video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
+[Deployed Web App Link]([https://restful-crud-app.web.app/#/home](https://restful-crud-app.web.app/#/home))
+[Android App APK]([https://drive.google.com/file/d/your-video-id/view?usp=sharing](https://drive.google.com/file/d/1VuL_LqcypgiKzm-pTZsw5G6IB2p6e1sy/view?usp=sharing))
+[Project Walkthrough Video]([https://drive.google.com/file/d/your-video-id/view?usp=sharing](https://drive.google.com/file/d/13A_YdwnIMjYRYn2qoHQhLGDJ01p8W4IQ/view?usp=sharing))
 
 ---
 
